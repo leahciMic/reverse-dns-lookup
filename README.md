@@ -40,15 +40,18 @@ curl -H 'Content-Type: application/json' -d '{"ips":["8.8.8.8", "8.8.4.4"]}' htt
 
 The body is expected to have a content-type of application/json.
 
-### /
+### POST /
 
-Accepted body arguments:
+#### Arguments
 
-`ip` a single IP address
-`ips` multiple IP addresses
+| Key   | Description           |
+|-------|-----------------------|
+| `ip`  | a single IP address   |
+| `ips` | multiple IP addresses |
 
-Returns and object with the ip address as key and an array of host names.
+#### Return value
 
+An object with the ip address as key and an array of host names.
 
 ## Contribute
 
