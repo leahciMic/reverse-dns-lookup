@@ -1,4 +1,6 @@
 {
+  "name": "reverse-dns-lookup",
+  "version": "1.0.0",
   "author": {
     "name": "Michael Leaney",
     "email": "leahcimic@gmail.com"

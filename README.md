@@ -1,4 +1,4 @@
-# DNS Reverse Lookup
+# Reverse DNS Lookup
 
 > Reverse DNS lookup service.
 
