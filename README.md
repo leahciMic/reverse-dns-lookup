@@ -61,4 +61,4 @@ PRs accepted.
 
 ## License
 
-[ISC © Michael Leaney](../LICENSE)
+[ISC © Michael Leaney](LICENSE)
